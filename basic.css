@@ -1,0 +1,54 @@
+body
+{
+    background-color:lightyellow;
+}
+h2
+{
+    color:#36454F;
+    text-align:center;
+    font-family:Abril Fatface;
+}
+input
+{
+    height:30px;
+    width:250px;
+    padding:5px;
+    border:none;
+    border-radius:20px;
+    text-align:center;
+    background-color:#D8D8D8;
+    box-shadow:5px 5px 10px #70FFFF;
+    margin-top:10px;
+    margin-left:50px;
+    margin-bottom:2px;
+}
+div
+{
+    background-color:#A9A9A9;
+    width:360px;
+    height:320px;
+    box-shadow:4px 5px 20px black;
+}
+.box
+{
+    position:absolute;
+    top:30%;
+    left:30%;
+}
+button
+{
+    width :100px;
+    height:40px;
+    text-align:center;
+    padding:10px;
+    background-color:#dbd3d8;
+    border-radius:3px;
+    border:none;
+    margin-top:20px;
+    margin-left:130px;
+    box-shadow:5px 5px 10px  #454a52;
+}
+button:active
+{
+    background-color:#FCEDDA;
+}
