@@ -29,3 +29,5 @@ function reset()
     f.value=""
     k.value=""
 }
+
+console.log("hello there");
