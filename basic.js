@@ -30,4 +30,3 @@ function reset()
     k.value=""
 }
 
-console.log("hello there");
